@@ -716,6 +716,14 @@ body {
   border: 1px solid rgba(0, 0, 0, 0.1);
   border-radius: 50%;
 }
+.modal__close-button:hover {
+  color: #2196f3;
+  cursor: pointer;
+}
+.modal__close-button:focus {
+  color: #2196f3;
+  cursor: pointer;
+}
 
 .modal__main {
   padding: 40px;
