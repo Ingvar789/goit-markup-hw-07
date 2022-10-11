@@ -172,7 +172,7 @@ body {
   margin: 0 auto;
 }
 
-.regular-customers__title, .our-team__name, .our-team__title, .our-work__title, .feature__title {
+.portfolio-list__title, .regular-customers__title, .our-team__name, .our-team__title, .our-work__title, .feature__title {
   color: #212121;
   margin-top: 0;
   margin-bottom: 0;
